@@ -1,4 +1,0 @@
-streamlit
-cv2
-numpy
-tempfile
