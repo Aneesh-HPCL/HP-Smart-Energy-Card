@@ -6,8 +6,8 @@ Created on Sat Jun 20 14:55:51 2026
 """
 
 import streamlit as st
-import cv2
 import numpy as np
+import cv2
 import tempfile
 
 # Title and instructions
